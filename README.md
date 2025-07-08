@@ -17,7 +17,6 @@
 * [How to Deploy](#how-to-deploy)
 * [How to Test](#how-to-test)
 * [Monitoring and Alerts](#monitoring-and-alerts)
-* [License](#license)
 
 ---
 
