@@ -2,7 +2,6 @@
 
 ![Architecture Diagram](architecture-diagram.png)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![AWS Lambda](https://img.shields.io/badge/Built%20with-AWS%20Lambda-orange)](https://aws.amazon.com/lambda/)
 [![Status: Completed](https://img.shields.io/badge/Status-Stable-brightgreen)]()
 
@@ -126,11 +125,6 @@ aws s3 ls s3://<ProcessedBucketName>/
 
 ---
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more info.
-
----
 
 > Developed as part of the AWS Solutions Architect Associate Graduation Project by Ahmed Sameh Abo EL Ela. For support, contact [ahmeddssameh0@gmail.com](mailto:ahmeddssameh0@gmail.com).
 
